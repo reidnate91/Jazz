@@ -1,3 +1,5 @@
+  
+
 body {
   margin: 0;
   padding: 0;
@@ -11,4 +13,25 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+h1 {
+  color: purple;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: purple;
+}
+ul {
+  color: gold;
+}
+header {
+  background-color: orange; 
+}
+body {
+  background-color: navy;
+}
+fieldset {
+  border-color: black;
 }
