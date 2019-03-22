@@ -23,11 +23,9 @@ h2 {
 h3 {
   color: purple;
 }
-ul {
-  color: gold;
-}
+
 header {
-  background-color: orange; 
+  background-color: white; 
 }
 body {
   background-color: navy;
@@ -40,5 +38,18 @@ label {
 }
 
 
+[name="starters"] {
+  color: gold; margin-top: 100px;
+}
+fieldset {
+  border: 2px solid black;
+}
 
+  
+[name="donny"]{
+  color: gold;
+}
 
+footer {
+  background: orange;
+}
