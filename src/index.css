@@ -28,7 +28,7 @@ header {
   background-color: white; 
 }
 body {
-  background-color: navy;
+  background-color: darkblue;
 }
 fieldset {
   border-color: black;
@@ -52,4 +52,7 @@ fieldset {
 
 footer {
   background: orange;
+}
+.csize {
+  height: 50%; width: 50%; margin: auto;
 }
