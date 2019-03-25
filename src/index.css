@@ -18,7 +18,7 @@ h1 {
   color: purple; font-size: 100px;
 }
 h2 {
-  color: green; text-align: center; font-size: 50px;
+   text-align: center; font-size: 50px;
 }
 h3 {
   color: purple;
@@ -53,6 +53,5 @@ fieldset {
 footer {
   background: orange;
 }
-.csize {
-  height: 50%; width: 50%; margin: auto;
-}
+
+
